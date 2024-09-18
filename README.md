@@ -10,4 +10,5 @@ The player can reset the game by clicking the "Again" button, which restores the
 
 ![mainPage](mainPage.jpg)
 ![correctGuess](correctGuess.jpg)
+![lostGame](lostGame.jpg)
 
