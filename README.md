@@ -1,4 +1,4 @@
-# guessMyNumber
+# GuessMyNumber
 
 This is a simple number guessing game built using JavaScript, HTML, and CSS. The game generates a random secret number between 1 and 20. The player has to guess the secret number by entering their guess. Based on the input, the game gives feedback:
 
